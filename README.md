@@ -1,2 +1,2 @@
-![](tic tac toe.png)
+![](tic_tac_toe.png)
 ![](Lyrics.txt)
